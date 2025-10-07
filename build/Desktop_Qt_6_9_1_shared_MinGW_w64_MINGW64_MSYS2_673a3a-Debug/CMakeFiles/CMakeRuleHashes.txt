@@ -1,5 +1,0 @@
-# Hashes of file build rules.
-3d76a6e37ee6c126d8113199291a76a2 .qt/qml_imports/SparrowAELite_build.cmake
-7070af0114e3729b6a5b2647df0aa5df CMakeFiles/SparrowAELite_autogen
-7070af0114e3729b6a5b2647df0aa5df CMakeFiles/SparrowAELite_qmlimportscan
-ba36492e6f042f21662605b3939d33c5 SparrowAELite_autogen/timestamp
