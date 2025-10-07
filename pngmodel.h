@@ -5,6 +5,7 @@ class PNGModel
 {
 public:
     PNGModel();
+    // сама модель
 };
 
 #endif // PNGMODEL_H

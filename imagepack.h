@@ -5,6 +5,11 @@ class ImagePack
 {
 public:
     ImagePack();
+    // 4 спрайта
+    // 1, если ваншот
+
+private:
+
 };
 
 #endif // IMAGEPACK_H

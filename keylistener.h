@@ -5,6 +5,7 @@ class KeyListener
 {
 public:
     KeyListener();
+    // прослушка клавиш, возможно через interception или типа того
 };
 
 #endif // KEYLISTENER_H

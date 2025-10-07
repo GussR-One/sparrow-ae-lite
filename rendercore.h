@@ -5,6 +5,10 @@ class RenderCore
 {
 public:
     RenderCore();
+    // занимается рендером непосредственно
+
+private:
+
 };
 
 #endif // RENDERCORE_H

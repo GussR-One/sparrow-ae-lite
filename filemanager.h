@@ -6,6 +6,8 @@ class FileManager
 {
 public:
     FileManager();
+    // пишет/читает файлы
+    // для моделей формат .spa
 };
 
 #endif // FILEMANAGER_H
