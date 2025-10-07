@@ -1,0 +1,10 @@
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/SparrowAELite.dir
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/SparrowAELite_qmlimportscan.dir
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/edit_cache.dir
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/list_install_components.dir
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/install.dir
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/install/local.dir
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/install/strip.dir
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/SparrowAELite_autogen_timestamp_deps.dir
+C:/Users/FouRth/Desktop/C++/SparrowAELite/build/Desktop_Qt_6_9_1_shared_MinGW_w64_MINGW64_MSYS2_673a3a-Debug/CMakeFiles/SparrowAELite_autogen.dir
